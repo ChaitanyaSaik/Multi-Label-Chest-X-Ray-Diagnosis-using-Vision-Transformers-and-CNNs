@@ -148,7 +148,7 @@ DenseNet121
 ---
 
 ## Project Structure
-
+'''
 project/
 │
 ├── dataset/
@@ -165,7 +165,7 @@ project/
 │   └── Final_Paper.pdf
 ├── requirements.txt
 └── README.md
-
+'''
 ---
 
 ## Future Work
